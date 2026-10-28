@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Me interesa aplicar mis conocimientos de programación y seguir aprendiendo junto a un equipo. He participado en proyectos de software como **líder de equipo** y **QA Tester**, y he compartido conocimientos como ayudante universitario de **Java** y **Python**.
+Me interesa aplicar mis conocimientos de programación y seguir aprendiendo junto a un equipo. He participado en el desarrollo de una aplicación web con **React** y **ASP.NET Core** como **líder de equipo y desarrollador**, y en otro proyecto como **QA Tester**. También he compartido conocimientos como ayudante universitario de **Java** y **Python**.
 
 ## 🛠️ Lenguajes
 
@@ -32,18 +32,31 @@ Me interesa aplicar mis conocimientos de programación y seguir aprendiendo junt
 - **Java, Python y C++:** conocimientos de nivel básico a intermedio.
 - **C#:** conocimientos básicos.
 
+### Tecnologías utilizadas en proyectos
+
+**Desarrollo web y datos**
+
+`React` · `ASP.NET Core` · `Entity Framework Core` · `PostgreSQL`
+
+**Servicios y herramientas**
+
+`BCrypt` · `Cloudinary` · `Neon` · `Render` · `SendGrid` · `GitHub`
+
 ---
 
 ## 🚀 Proyectos
 
 ### 🎭 Teatro LaDivine
 
-**Líder de equipo** · Proyecto académico
+**Líder de equipo y desarrollador** · Proyecto académico · Primer semestre de 2026
 
 Sistema web de gestión y venta de entradas para un teatro.
 
 - Mantuve el contacto con el cliente y coordiné las reuniones del proyecto.
-- Negocié cambios en los requerimientos e implementé parte de las funcionalidades.
+- Negocié cambios en la Especificación de Requisitos de Software (ERS).
+- Implementé el registro de funciones teatrales, la reserva de entradas y el procesamiento de pagos.
+
+**Tecnologías utilizadas:** React, ASP.NET Core, Entity Framework Core, PostgreSQL, BCrypt, Cloudinary, Neon, Render, SendGrid y GitHub.
 
 *El repositorio no está disponible públicamente por el momento.*
 
